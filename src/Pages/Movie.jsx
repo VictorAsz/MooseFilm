@@ -9,7 +9,7 @@ import {
 
 import MovieCard from "../components/MovieCard";
 
-import "../Styles/movie.css";
+import "../Styles/Movie.css";
 
 const moviesURL = import.meta.env.VITE_API;
 const apiKey = import.meta.env.VITE_API_KEY;
